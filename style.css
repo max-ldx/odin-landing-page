@@ -191,6 +191,14 @@ body {
     }
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 32px;
+}
+
 .dark {
     background-color: #1F2937;
 }
